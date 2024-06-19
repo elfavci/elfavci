@@ -1,4 +1,4 @@
-# 🌟 Elif Avcı - Computer Engineer
+# 🌟 Elif Avcı - Computer Engineer  🌟
 
 👋 **Hello!** I'm **Elif Avcı**, a passionate and dedicated Computer Engineer with experience in full-stack development, project management, and a keen interest in software engineering.
 
