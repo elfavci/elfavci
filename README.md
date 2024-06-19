@@ -39,6 +39,18 @@
 - **SQL** (for database)
 - **HTML**, **CSS** (markup languages)
 
+## ☁️ Cloud Services & Tools
+
+- **Amazon Web Services (AWS)**
+  - EC2, S3, RDS, Lambda
+- **Google Cloud Platform (GCP)**
+  - Compute Engine, Cloud Storage
+ 
+  ## 🗂 Version Control Systems
+  - **Git**
+  - **GitHub**
+  - **GitLab**
+
 ## 🌐 Languages
 
 - **English:** B2 Level
