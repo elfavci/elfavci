@@ -51,11 +51,6 @@
   - **GitHub**
   - **GitLab**
 
-## 🌐 Languages
-
-- **English:** B2 Level
-- **German:** A1 Level
-
 ## 🤝 Team Experience
 
 ### Team Member
