@@ -46,10 +46,10 @@
 - **Google Cloud Platform (GCP)**
   - Compute Engine, Cloud Storage
  
-  ## 🗂 Version Control Systems
-  - **Git**
-  - **GitHub**
-  - **GitLab**
+## 🗂 Version Control Systems
+- **Git**
+- **GitHub**
+- **GitLab**
 
 ## 🤝 Team Experience
 
