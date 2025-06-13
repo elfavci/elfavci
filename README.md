@@ -7,7 +7,7 @@
 
 - **Operating Systems:** Windows, Linux, iOS
 - **Communication Tools:** Zoom, Skype, Microsoft Teams, Google Meet
-- **IDEs & Tools:** Visual Studio Code, Eclipse, PyCharm Community Edition, Sublime Text, Visual Studio, CodeBlocks, Anaconda, Docker
+- **IDEs & Tools:** Visual Studio Code, Eclipse, PyCharm Community Edition, Sublime Text, Visual Studio, CodeBlocks, Anaconda, Docker, Power BI
 - **Databases:** PostgreSQL, SQLite
 
 ## 💻 Programming Languages
