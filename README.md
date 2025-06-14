@@ -33,6 +33,9 @@
 - **GitHub**
 - **GitLab**
 
+## 📖 Medium Account
+[Medium](https://medium.com/@elffavci)
+
 ## 📫 Contact Information
 
 - **Email:** [elffavci@gmail.com](mailto:elffavci@gmail.com)
