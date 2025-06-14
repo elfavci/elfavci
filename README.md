@@ -34,7 +34,7 @@
 - **GitLab**
 
 ## 📖 Medium Account
-[Medium](https://medium.com/@elffavci)
+[Elif Avcı](https://medium.com/@elffavci)
 
 ## 📫 Contact Information
 
